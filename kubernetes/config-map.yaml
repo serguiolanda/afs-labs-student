@@ -5,4 +5,4 @@ metadata:
   name: feature-toggle
   namespace: slanda
 data:
-  LOCATION_FEATURE_ENABLED: "False"
+  LOCATION_FEATURE_ENABLED: "True"
